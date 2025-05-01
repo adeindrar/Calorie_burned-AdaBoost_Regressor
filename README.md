@@ -6,15 +6,11 @@ Proyek kali ini ingin memprediksi pembakaran kalori pada tiap user yang berencan
 1. [Link Terkait Project](#link-terkait-project-)
 2. [Project Overview](#project-overview-)
 3. [Latar Belakang Masalah](#latar-belakang-masalah-)
-4. [Problem-Statement](#problem-statement-)
-5. [Penjabaran-Masalah](#penjabaran-masalah-)
-6. [Metode yang Digunakan](#metode-yang-digunakan-)
-7. [Kesimpulan Analisa dan Rekomendasi Bisnis](#kesimpulan-analisa-dan-rekomendasi-bisnis-)
-8. [File yang Tersedia](#file-yang-tersedia-)
-9. [Cara Menggunakan Project Ini](#cara-menggunakan-project-ini-)
-10. [Dependencies](#dependencies-)
-11. [Libraries](#libraries-)
-12. [Author](#author-️)
+4. [Metode yang Digunakan](#metode-yang-digunakan-)
+5. [Kesimpulan Analisa dan Rekomendasi Bisnis](#kesimpulan-analisa-dan-rekomendasi-bisnis-)
+6. [File yang Tersedia](#file-yang-tersedia-)
+7. [Libraries](#libraries-)
+8. [Author](#author-️)
 
 ## Link Terkait Project ⛓️‍💥
 
