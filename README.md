@@ -7,7 +7,7 @@ Proyek kali ini ingin memprediksi pembakaran kalori pada tiap user yang berencan
 2. [Project Overview](#project-overview-)
 3. [Latar Belakang Masalah](#latar-belakang-masalah-)
 4. [Metode yang Digunakan](#metode-yang-digunakan-)
-5. [Kesimpulan Analisa dan Rekomendasi Bisnis](#kesimpulan-analisa-dan-rekomendasi-bisnis-)
+5. [Kesimpulan Analisa dan Further Improvement](#kesimpulan-analisa-dan-further-improvement-)
 6. [File yang Tersedia](#file-yang-tersedia-)
 7. [Libraries](#libraries-)
 8. [Author](#author-️)
