@@ -1,4 +1,4 @@
-# Visualisasi Data Penjualan📊
+# Prediksi Pembakaran Kalori 🔥
 
 Proyek kali ini ingin memprediksi pembakaran kalori pada tiap user yang berencana berolahraga sehingga tiap user dapat membuat to do list untuk mencapai targetnya untuk menjaga kesehatan dan juga penampilan. Pada pembuatan model saya menggunakan metode Supervised Learning Regression. Saya akan melakukan proses modeling dengan menggunakan cross validation untuk menentukan model mana yang paling baik, sehingga dapat melakukan hyperparameter tuning pada proses selanjutnya menggunakan model terbaik. Sehingga hasil score prediksi semakin akurat lagi. Metrics evaluasi yang digunakan adalah MAE (Mean Absolute Error), metrics ini digunakan agar mudah menjelaskan hasil project kepada stakeholder dan juga karena toleransi pada pembakaran kalori tidak terlalu mempengaruhi user secara langsung.
 
